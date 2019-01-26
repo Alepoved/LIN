@@ -1,0 +1,1 @@
+En la parte B, solo esta implementado el punto 1 (Hacer funcionar el módulo de la parte A en MV de Android-x86)

@@ -1,0 +1,10 @@
+Alejandro Povedano Atienza
+05952717H
+
+Explicación blink_user:
+
+El jugador, que es el led rojo,podrá moverse por la fila de leds utilizando las teclas a y d para moverse a izquierda y derecha respectivamente(sin introducir [enter]).
+
+El juego consiste en encontrar el led que se ilumina aleatoriamente y que posteriormente se apaga, en el menor numero de movimientos posibles.
+
+Cuando encuentres el led buscado, el jugador(rojo) parpadeará, se encenderan todos los leds de la tira y se generará otro color aleatorio. El jugador rojo comenzará desde la ultima posición.

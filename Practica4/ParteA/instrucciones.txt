@@ -1,0 +1,5 @@
+Ejecutar primero el add.sh y luego el remove.sh un segundo despues.
+
+El add.sh añade elementos del 0 al 10 y el remove.sh elimina del 1 al 6, mientras el add.sh añade los elementos que quedan hasta llegar a 10.
+
+Despues de que termine el remove.sh, se imprimen la secuencia, sin los numeros del 1 al 6
